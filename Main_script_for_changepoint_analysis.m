@@ -42,4 +42,4 @@ hold on
 scatter(index_of_dilatation,posterior_dist(index_of_dilatation))
 xlabel('Arclength mm')
 ylabel('Probability Density')
-title('Probability Posterior p(\tau |y)')%,'Interpreter','latex')
+title('Posterior p(\tau |y)')%,'Interpreter','latex')
