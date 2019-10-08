@@ -18,6 +18,8 @@ A demonstration of the method can found by running the following script
 Main_script_for_changepoint_analysis.m
 ```
 
+<img src='Output_image.png' width="600px"/>
+
 ## Citation
 If you use this code for your research, please cite our paper:
 ```
@@ -29,10 +31,13 @@ If you use this code for your research, please cite our paper:
 }
 ```
 
+## Keywords
+Changepoint Detection, Bayesian Modelling, Abnormality Detection & Time Series
+
 ## Acknowledgements
 
-* [Ryutaro Tanno](https://rt416.github.io/)
-* Michael Duong
-* [John Hurst](https://twitter.com/ProfHurst)
-* [David Hawkes](https://scholar.google.co.uk/citations?user=XqcO8foAAAAJ&hl=en) 
-* [Joseph Jacob](https://iris.ucl.ac.uk/iris/browse/profile?upi=JJACO76) 
+* [Ryutaro Tanno](https://rt416.github.io/) at University College London, UK & Microsoft Research, Cambridge
+* Michael Duong at University College London, UK
+* [John Hurst](https://twitter.com/ProfHurst) at University College London, UK
+* [David Hawkes](https://scholar.google.co.uk/citations?user=XqcO8foAAAAJ&hl=en) at University College London, UK
+* [Joseph Jacob](https://iris.ucl.ac.uk/iris/browse/profile?upi=JJACO76) at University College London, UK
