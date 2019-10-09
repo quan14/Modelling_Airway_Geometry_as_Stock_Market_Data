@@ -34,6 +34,10 @@ If you use this code for your research, please cite our paper:
 ## Keywords
 Changepoint Detection, Bayesian Modelling, Abnormality Detection & Time Series
 
+## Contact
+Email: kin.quan.10@ucl.ac.uk
+LinkedIn: https://www.linkedin.com/in/kin-quan/
+
 ## Acknowledgements
 
 * [Ryutaro Tanno](https://rt416.github.io/) at University College London, UK & Microsoft Research, Cambridge
