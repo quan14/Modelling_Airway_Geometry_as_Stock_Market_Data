@@ -32,10 +32,11 @@ If you use this code for your research, please cite our paper:
 ```
 
 ## Keywords
-Changepoint Detection, Bayesian Modelling, Abnormality Detection & Time Series
+Changepoint Detection, Bayesian Modelling, Abnormality Detection, Reversible Jump Markov Chain Monte Carlo, Metropolis Hastings & Time Series
 
 ## Contact
 Email: kin.quan.10@ucl.ac.uk
+
 LinkedIn: https://www.linkedin.com/in/kin-quan/
 
 ## Acknowledgements
