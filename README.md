@@ -35,7 +35,7 @@ If you use this code for your research, please cite our paper:
 Changepoint Detection, Bayesian Modelling, Abnormality Detection, Reversible Jump Markov Chain Monte Carlo, Metropolis Hastings & Time Series
 
 ## Contact
-Email: kin.quan.10@ucl.ac.uk
+Email: kwk.quan@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/kin-quan/
 
